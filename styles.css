@@ -1,5 +1,11 @@
 
 /* Your CSS Code here. */
-.dp{
-	margin:0;
+.box{
+	background-color:yellow;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:90vh;
+	 flex-direction: column;
+   
 }
